@@ -1,6 +1,6 @@
 {
     "name": "widi/doctrine-mysql-come-back",
-    "description": "Auto reconnect on Doctrine MySql has gone away exceptions on doctrine/dbal",
+    "description": "Auto reconnect on Doctrine MySql has gone away exceptions on doctrine/dbal with Kdyby/Doctrine compatibility. This is a fork of https://github.com/facile-it/doctrine-mysql-come-back to fix current statement issue",
     "keywords": ["mysql","doctrine","reconnect","refresh","connection","has gone away","exception"],
     "license": "Apache-2.0",
     "authors": [
